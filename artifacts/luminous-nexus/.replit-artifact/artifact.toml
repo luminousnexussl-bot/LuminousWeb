@@ -1,0 +1,28 @@
+kind = "web"
+previewPath = "/"
+title = "Luminous Nexus Corporate Website"
+description = "A premium responsive corporate website for Luminous Nexus (Pvt) Ltd, presenting its technology solutions, international trade and export activities, emerging ventures, locations, and partnership contact flow."
+version = "1.0.0"
+id = "artifacts/luminous-nexus"
+router = "path"
+
+[[services]]
+name = "web"
+paths = [ "/" ]
+localPort = 19577
+
+[services.development]
+run = "pnpm --filter @workspace/luminous-nexus run dev"
+
+[services.production]
+build = [ "pnpm", "--filter", "@workspace/luminous-nexus", "run", "build" ]
+serve = "static"
+publicDir = "artifacts/luminous-nexus/dist/public"
+
+[[services.production.rewrites]]
+from = "/*"
+to = "/index.html"
+
+[services.env]
+PORT = "19577"
+BASE_PATH = "/"

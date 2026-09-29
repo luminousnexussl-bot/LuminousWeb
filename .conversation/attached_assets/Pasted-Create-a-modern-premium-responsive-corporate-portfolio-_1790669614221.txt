@@ -1,0 +1,777 @@
+Create a modern, premium, responsive corporate portfolio website for:
+
+LUMINOUS NEXUS (PVT) LTD
+
+Luminous Nexus (Pvt) Ltd is a Sri Lankan–Czech business group operating across technology solutions, international trade & export, and developing ventures in inbound tourism and agriculture.
+
+IMPORTANT:
+Do NOT position Luminous Nexus as only a software company.
+Do NOT position the company as only a gemstone company.
+The website must feel like an international business group with multiple business divisions and future expansion opportunities.
+
+The company has two business locations:
+1. Sri Lanka
+2. Czech Republic
+
+The overall website should communicate:
+- Professional
+- Modern
+- International
+- Trustworthy
+- Innovative
+- Entrepreneurial
+- Premium but simple
+- Corporate but not boring
+- Clean and easy to navigate
+
+==================================================
+BRAND POSITIONING
+==================================================
+
+Company Name:
+Luminous Nexus (Pvt) Ltd
+
+Suggested main tagline:
+"Building Businesses. Enabling Technology. Creating Opportunities."
+
+Alternative supporting statement:
+"Connecting Technology, Trade and New Opportunities Across Markets."
+
+Company description:
+"Luminous Nexus (Pvt) Ltd is a Sri Lankan–Czech business group working across technology solutions, international trade and export, and emerging opportunities in inbound tourism and agriculture."
+
+Do not claim that tourism or agriculture are already fully operational businesses if they are still developing. Present them as "Emerging Ventures", "Developing Ventures", or "Future Opportunities".
+
+==================================================
+DESIGN DIRECTION
+==================================================
+
+Create a high-end international corporate website inspired by modern global consulting, technology and investment companies.
+
+Visual style:
+- Minimal
+- Premium
+- Sophisticated
+- Modern
+- Clean
+- Lots of whitespace
+- Strong typography
+- Large visual sections
+- Subtle animations
+- Elegant cards
+- Smooth scrolling
+- Professional photography
+- High-quality imagery
+- Responsive design
+
+Avoid:
+- Cheap-looking gradients
+- Excessive animations
+- Too many colors
+- Crowded layouts
+- Generic startup templates
+- Overuse of icons
+- Cartoon-style graphics
+- Excessive text
+- Stock-photo-heavy appearance
+- Making the website look like a software freelancer website
+
+Color direction:
+- Primary: deep navy / charcoal
+- Secondary: white / off-white
+- Accent: sophisticated gold or warm champagne
+- Optional subtle green accent for agriculture/export sections
+
+The color system must remain professional and consistent.
+
+Typography:
+Use a modern premium sans-serif font such as Inter, Manrope, Plus Jakarta Sans, or similar.
+
+Use strong large headings and short readable paragraphs.
+
+==================================================
+NAVIGATION
+==================================================
+
+Create a sticky transparent navigation bar that becomes solid/blurred while scrolling.
+
+Navigation:
+
+LOGO
+Home
+About
+Businesses
+Technology
+Trade & Export
+Ventures
+Portfolio
+Locations
+Contact
+
+Primary CTA button:
+"Start a Conversation"
+
+On mobile:
+Use a clean hamburger menu.
+
+==================================================
+HOME PAGE
+==================================================
+
+SECTION 1 — HERO
+
+Large premium hero section.
+
+Headline:
+
+"Building Businesses.
+Enabling Technology.
+Creating Opportunities."
+
+Supporting text:
+
+"Luminous Nexus (Pvt) Ltd is a Sri Lankan–Czech business group connecting technology, international trade and emerging ventures across global markets."
+
+Primary button:
+"Explore Our Businesses"
+
+Secondary button:
+"Contact Us"
+
+Hero visual:
+Use an elegant abstract global-business visual or premium image composition showing:
+- technology
+- international connectivity
+- business
+- Sri Lanka / Europe connection
+
+Do NOT make the hero look like a software-only website.
+
+Add subtle animated background elements such as:
+- fine lines
+- world connection points
+- soft moving particles
+- minimal grid
+
+Keep animation elegant and slow.
+
+==================================================
+SECTION 2 — INTRODUCTION
+==================================================
+
+Small label:
+
+"WHO WE ARE"
+
+Heading:
+
+"One Group. Multiple Opportunities."
+
+Text:
+
+"Luminous Nexus brings together technology, international trade and emerging business opportunities under one corporate vision. With a presence connecting Sri Lanka and the Czech Republic, we work to build practical solutions, develop international relationships and explore new markets."
+
+Add a "Learn More" link.
+
+Visual:
+Use a premium corporate image or abstract business image.
+
+==================================================
+SECTION 3 — OUR BUSINESS AREAS
+==================================================
+
+Heading:
+
+"Our Business Areas"
+
+Subheading:
+
+"From technology solutions to international trade and emerging ventures, Luminous Nexus is building a diversified business platform."
+
+Create 4 large premium cards.
+
+CARD 01
+
+Title:
+"Technology Solutions"
+
+Description:
+"Business technology solutions designed to simplify operations, improve efficiency and support digital growth."
+
+Services:
+- ERP Solutions
+- Web Applications
+- Mobile Applications
+- E-commerce
+- Customer Applications
+- Custom Software Development
+
+CTA:
+"Explore Technology"
+
+Visual:
+Modern dashboard / technology image.
+
+--------------------------------------------------
+
+CARD 02
+
+Title:
+"International Trade & Export"
+
+Description:
+"Connecting quality Sri Lankan products, producers and business opportunities with international markets."
+
+Include product categories:
+
+- Ceylon Tea
+- Spices & Natural Products
+- Coconut & Coconut-Based Products
+- Fruits & Agricultural Products
+- Natural Gemstones & Jewellery
+- Other Sri Lankan Products & Goods
+- Custom Export & Sourcing Opportunities
+
+IMPORTANT:
+Do NOT make gemstones the main focus.
+Gemstones should appear as only one product category among Sri Lankan products.
+
+CTA:
+"Explore Trade & Export"
+
+Visual:
+Premium Sri Lankan products / tea / spices / agricultural products / export logistics.
+
+--------------------------------------------------
+
+CARD 03
+
+Title:
+"Inbound Tourism"
+
+Badge:
+"Developing Venture"
+
+Description:
+
+"Exploring opportunities to connect international visitors with authentic Sri Lankan experiences, destinations, culture, nature and hospitality."
+
+Potential areas:
+- Sri Lanka Experiences
+- Nature & Adventure
+- Cultural Tourism
+- Plantation & Agricultural Experiences
+- Private & Corporate Travel
+- Local Hospitality Partnerships
+
+CTA:
+"Explore Tourism"
+
+IMPORTANT:
+Present this as a developing venture, not as an established tourism operator unless information is later provided.
+
+--------------------------------------------------
+
+CARD 04
+
+Title:
+"Agriculture & Agri Ventures"
+
+Badge:
+"Developing Venture"
+
+Description:
+
+"Exploring agricultural opportunities, plantation development and sustainable, market-oriented ventures connected to Sri Lanka's agricultural potential."
+
+Potential areas:
+- Agricultural Development
+- Plantation Opportunities
+- Sustainable Agriculture
+- Agricultural Products
+- Export-Oriented Agriculture
+- Agri-Tourism Opportunities
+
+CTA:
+"Explore Agriculture"
+
+==================================================
+SECTION 4 — TECHNOLOGY SOLUTIONS
+==================================================
+
+Create a dedicated section showing Luminous Nexus's technology capabilities.
+
+Small label:
+"TECHNOLOGY"
+
+Heading:
+
+"Technology That Works for Business."
+
+Description:
+
+"We design and develop practical digital solutions that help organizations manage operations, connect with customers and grow efficiently."
+
+Create six service cards:
+
+1. ERP Solutions
+Inventory, sales, HRM, accounting, finance, production and customized business processes.
+
+2. Web Applications
+Custom business platforms, management systems and web-based applications.
+
+3. Mobile Applications
+Android and iOS-ready business and customer applications.
+
+4. E-commerce
+Online stores, product management, orders, payments and customer experiences.
+
+5. Customer Applications
+Digital platforms designed around specific customer and business requirements.
+
+6. Custom Software
+Purpose-built software solutions for unique operational requirements.
+
+CTA:
+"Discuss Your Technology Requirement"
+
+==================================================
+SECTION 5 — INTERNATIONAL TRADE & EXPORT
+==================================================
+
+Create a visually strong Sri Lankan-focused section.
+
+Heading:
+
+"Sri Lankan Products.
+Global Opportunities."
+
+Description:
+
+"Our international trade and export activities focus on connecting quality Sri Lankan products and producers with buyers and business opportunities in international markets."
+
+Create visual product categories:
+
+Ceylon Tea
+Spices
+Coconut Products
+Agricultural Products
+Natural Products
+Natural Gemstones & Jewellery
+Other Sri Lankan Goods
+
+Add a world map visual showing Sri Lanka connecting with:
+Europe
+Middle East
+Asia
+Australia
+North America
+Other global markets
+
+Do NOT claim specific export countries unless verified.
+
+Add CTA:
+"Discuss an Export Opportunity"
+
+==================================================
+SECTION 6 — EMERGING VENTURES
+==================================================
+
+Heading:
+
+"Exploring What's Next."
+
+Subheading:
+
+"Our journey extends beyond today's businesses. We are actively exploring opportunities where Sri Lanka's resources, people and potential can connect with global demand."
+
+Create two large visual panels:
+
+INBOUND TOURISM
+
+"Developing new opportunities around authentic Sri Lankan travel, culture, nature, agriculture and hospitality experiences."
+
+AGRICULTURE
+
+"Exploring sustainable agricultural, plantation and export-oriented opportunities."
+
+Use badges:
+"Developing Venture"
+
+Do not present these as completed services.
+
+==================================================
+SECTION 7 — WHY LUMINOUS NEXUS
+==================================================
+
+Heading:
+
+"Built Around Opportunity."
+
+Create 4 or 5 concise points.
+
+1. MULTI-SECTOR EXPERIENCE
+"Combining technology, trade and emerging business opportunities."
+
+2. SRI LANKA + EUROPE
+"Connecting Sri Lankan capabilities with international opportunities through our Sri Lanka and Czech Republic presence."
+
+3. PRACTICAL APPROACH
+"Focused on real business requirements, practical solutions and sustainable relationships."
+
+4. INTERNATIONAL OUTLOOK
+"Designed with global markets, customers and partnerships in mind."
+
+5. CONTINUOUSLY EVOLVING
+"Exploring new industries and opportunities as markets develop."
+
+Avoid exaggerated claims such as:
+"industry leader"
+"number one"
+"best"
+"largest"
+unless verified.
+
+==================================================
+SECTION 8 — PORTFOLIO
+==================================================
+
+Heading:
+
+"Selected Work & Capabilities"
+
+Create a modern portfolio grid.
+
+Categories:
+- ERP & Business Systems
+- Web Applications
+- Mobile Applications
+- E-commerce
+- Customer Applications
+- Digital Business Solutions
+- International Trade
+- Emerging Ventures
+
+Each portfolio card should have:
+- Image
+- Category
+- Short description
+- "View Details"
+
+Use realistic placeholder project names only where appropriate.
+
+Do NOT invent major clients, awards, certifications or statistics.
+
+If actual projects are not supplied, label examples as:
+"Selected Capability"
+instead of pretending they are real client projects.
+
+==================================================
+SECTION 9 — BUSINESS MODEL / HOW WE WORK
+==================================================
+
+Heading:
+
+"From Opportunity to Execution."
+
+Show a simple 4-step process:
+
+01
+Understand
+"We begin by understanding the business, market or opportunity."
+
+02
+Plan
+"We define the right approach, resources and execution model."
+
+03
+Build & Connect
+"We develop solutions, establish partnerships or coordinate opportunities."
+
+04
+Grow
+"We focus on sustainable relationships and long-term development."
+
+Use a horizontal timeline on desktop and vertical timeline on mobile.
+
+==================================================
+SECTION 10 — LOCATIONS
+==================================================
+
+Heading:
+
+"Connecting Sri Lanka & Europe"
+
+Create two premium location cards.
+
+CARD 01:
+
+SRI LANKA
+
+"Luminous Nexus's Sri Lankan base, supporting technology solutions, international trade and emerging ventures."
+
+Include:
+Sri Lanka
+
+CARD 02:
+
+CZECH REPUBLIC
+
+"Our European presence supporting international connections, partnerships and market opportunities."
+
+Include:
+Czech Republic
+
+Use subtle map graphics.
+
+Do not invent exact office addresses.
+
+If addresses are not provided, display only:
+"Sri Lanka"
+"Czech Republic"
+
+==================================================
+SECTION 11 — ABOUT / VISION
+==================================================
+
+Heading:
+
+"Building for Today. Preparing for Tomorrow."
+
+Text:
+
+"Luminous Nexus was established with a vision of bringing together technology, business opportunities and international connections. Our approach is to build practical businesses today while continuously exploring new opportunities for tomorrow."
+
+Vision:
+
+"To build a diversified international business group connecting Sri Lankan capabilities with global opportunities."
+
+Mission:
+
+"To create practical technology solutions, develop international trade opportunities and build sustainable ventures across emerging sectors."
+
+==================================================
+SECTION 12 — CONTACT CTA
+==================================================
+
+Create a strong dark premium section.
+
+Heading:
+
+"Let's Build Something Valuable."
+
+Text:
+
+"Whether you are looking for a technology partner, a Sri Lankan sourcing opportunity, an international business connection or a new venture partnership, we'd like to hear from you."
+
+Buttons:
+
+"Start a Conversation"
+
+"Explore Our Businesses"
+
+Contact form fields:
+
+Name
+Company
+Email
+Phone
+Country
+Area of Interest
+Message
+
+Area of Interest dropdown:
+- Technology Solutions
+- International Trade & Export
+- Inbound Tourism
+- Agriculture & Agri Ventures
+- Partnership
+- General Inquiry
+
+==================================================
+FOOTER
+==================================================
+
+Footer should contain:
+
+LUMINOUS NEXUS (PVT) LTD
+
+"Building Businesses. Enabling Technology. Creating Opportunities."
+
+Columns:
+
+COMPANY
+About
+Businesses
+Portfolio
+Locations
+Contact
+
+BUSINESS
+Technology
+Trade & Export
+Inbound Tourism
+Agriculture
+
+LOCATIONS
+Sri Lanka
+Czech Republic
+
+SOCIAL
+LinkedIn
+Facebook
+Instagram
+
+Use placeholder links if actual links are not supplied.
+
+Footer copyright:
+
+© 2026 Luminous Nexus (Pvt) Ltd. All Rights Reserved.
+
+==================================================
+RESPONSIVE DESIGN
+==================================================
+
+The website MUST be fully responsive.
+
+Desktop:
+- Wide premium layouts
+- Large hero typography
+- Multi-column cards
+- Elegant spacing
+
+Tablet:
+- 2-column cards
+- Reduced typography
+- Maintain visual hierarchy
+
+Mobile:
+- Single-column layout
+- Large readable headings
+- Sticky mobile navigation
+- Full-width CTA buttons
+- Cards optimized for touch
+- No horizontal scrolling
+- Fast loading
+
+==================================================
+ANIMATIONS
+==================================================
+
+Use subtle premium animations:
+
+- Fade-up on scroll
+- Smooth section transitions
+- Card hover movement
+- Image scale on hover
+- Soft navigation transition
+- Animated world connection lines
+- Number counters only if real data is provided
+
+Do NOT use excessive animations.
+
+==================================================
+SEO
+==================================================
+
+Create SEO-friendly page titles and metadata.
+
+Primary title:
+
+"Luminous Nexus (Pvt) Ltd | Technology, Trade & Business Opportunities"
+
+Meta description:
+
+"Luminous Nexus (Pvt) Ltd is a Sri Lankan–Czech business group operating across technology solutions, international trade and export, and emerging ventures in tourism and agriculture."
+
+Suggested keywords:
+
+Luminous Nexus
+Luminous Nexus Sri Lanka
+Luminous Nexus Czech Republic
+Sri Lankan technology company
+ERP solutions Sri Lanka
+software solutions Sri Lanka
+mobile application development
+web application development
+e-commerce solutions Sri Lanka
+Sri Lankan exports
+Sri Lankan products export
+Ceylon tea export
+Sri Lankan spices
+Sri Lankan agricultural products
+Sri Lanka business opportunities
+Sri Lanka tourism
+Sri Lankan agriculture
+
+==================================================
+IMPORTANT CONTENT RULES
+==================================================
+
+1. Do not make Luminous Nexus look like only a software company.
+
+2. Do not make gemstones the main export identity.
+
+3. International Trade & Export must represent a broad range of Sri Lankan products and goods.
+
+4. Include:
+Ceylon Tea
+Spices
+Coconut products
+Agricultural products
+Natural products
+Natural gemstones & jewellery
+Other Sri Lankan products and goods
+
+5. Gemstones must be presented as ONE category, not the whole export business.
+
+6. Tourism and agriculture should be presented as developing/emerging ventures if they are not yet fully operational.
+
+7. Do not invent:
+- revenue
+- employee numbers
+- awards
+- certifications
+- major clients
+- office addresses
+- export volumes
+- countries served
+- years of experience
+- market share
+
+8. Do not use fake testimonials.
+
+9. Do not use fake statistics.
+
+10. The website should feel credible even without exaggerated claims.
+
+==================================================
+OVERALL EXPERIENCE
+==================================================
+
+The final website should feel like a modern international corporate group website.
+
+The visitor should immediately understand:
+
+"Luminous Nexus is a diversified Sri Lankan–Czech business group working across technology, international trade and emerging ventures."
+
+The website should communicate:
+Technology + Trade + Global Connections + New Opportunities
+
+Use a premium visual hierarchy and keep copy concise.
+
+Make the design impressive through typography, spacing, imagery and layout rather than excessive text.
+
+The final result should look suitable for:
+- International business partners
+- Software clients
+- Export buyers
+- Suppliers
+- Investors and business partners
+- Tourism partners
+- Agriculture partners
+- Corporate customers
+
+Create all required pages/sections and make navigation functional.
+
+Use modern reusable components and clean production-quality code.

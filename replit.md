@@ -1,6 +1,6 @@
-# [Project name]
+# Luminous Nexus Corporate Website
 
-_Replace the heading above with the project's name, and this line with one sentence describing what this app does for users._
+A premium responsive corporate website for Luminous Nexus (Pvt) Ltd, a Sri Lankan–Czech business group working across technology, international trade and emerging ventures.
 
 ## Run & Operate
 
@@ -22,15 +22,24 @@ _Replace the heading above with the project's name, and this line with one sente
 
 ## Where things live
 
-_Populate as you build — short repo map plus pointers to the source-of-truth file for DB schema, API contracts, theme files, etc._
+- `artifacts/luminous-nexus/src/App.tsx` — single-page corporate website and interactive UI behavior
+- `artifacts/luminous-nexus/src/index.css` — site tokens, responsive layout, motion, and visual system
+- `artifacts/luminous-nexus/public/` — production-ready logo asset variants
+- `attached_assets/` — supplied source brief and original logo asset
+- `artifacts/luminous-nexus/index.html` — SEO metadata and social sharing metadata
 
 ## Architecture decisions
 
-_Populate as you build — non-obvious choices a reader couldn't infer from the code (3-5 bullets)._
+- Presentation-first static React/Vite artifact; no backend or database is needed for the corporate brochure experience.
+- The supplied logo is the source for the brand's navy/luminous-blue visual language.
+- Tourism and agriculture remain explicitly labelled as developing ventures to avoid unsupported operational claims.
+- CSS and inline SVG visuals keep the page self-contained and avoid fragile external image dependencies.
 
 ## Product
 
-_Describe the high-level user-facing capabilities of this app once they exist._
+- Presents the group's positioning, business areas, technology capabilities, trade/export categories, emerging ventures, locations, and working approach.
+- Provides responsive anchor navigation, mobile menu behavior, portfolio capability filtering, and a contact form success state.
+- Communicates verified scope without invented clients, awards, statistics, addresses, or export markets.
 
 ## User preferences
 
